@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="240" viewBox="0 0 520 240" role="img" aria-labelledby="title desc">
+  <title id="title">XOR Gate</title>
+  <desc id="desc">A standard two-input XOR gate with inputs A and B and output R.</desc>
+  <rect width="520" height="240" fill="white"/>
+  <text x="35" y="79" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="normal" fill="black">A</text>
+  <text x="35" y="169" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="normal" fill="black">B</text>
+  <line x1="65" y1="72" x2="134" y2="72" stroke="black" stroke-width="4"/>
+  <line x1="65" y1="162" x2="134" y2="162" stroke="black" stroke-width="4"/>
+  <path d="M125 42 Q 185 120 125 198" fill="none" stroke="black" stroke-width="4"/>
+  <path d="M145 42 Q 205 120 145 198 L 240 198 Q 355 198 355 120 Q 355 42 240 42 Z" fill="white" stroke="black" stroke-width="4"/>
+  <line x1="355" y1="120" x2="445" y2="120" stroke="black" stroke-width="4"/>
+  <text x="455" y="128" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="normal" fill="black">R</text>
+  <text x="224" y="128" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" fill="black">XOR</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="240" viewBox="0 0 520 240" role="img" aria-labelledby="title desc">
+  <title id="title">AND Gate</title>
+  <desc id="desc">A standard two-input AND gate with inputs A and B and output R.</desc>
+
+  <!-- White background keeps the diagram readable in GitHub light and dark modes -->
+  <rect width="520" height="240" fill="white"/>
+
+  <!-- Input labels -->
+  <text x="35" y="79" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="black">A</text>
+  <text x="35" y="169" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="black">B</text>
+
+  <!-- Input wires -->
+  <line x1="65" y1="72" x2="160" y2="72" stroke="black" stroke-width="4"/>
+  <line x1="65" y1="162" x2="160" y2="162" stroke="black" stroke-width="4"/>
+
+  <!-- AND gate body -->
+  <path d="M160 42
+           L255 42
+           A78 78 0 0 1 255 198
+           L160 198
+           Z"
+        fill="white"
+        stroke="black"
+        stroke-width="4"/>
+
+  <!-- Output wire and label -->
+  <line x1="333" y1="120" x2="445" y2="120" stroke="black" stroke-width="4"/>
+  <text x="455" y="128" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="black">R</text>
+
+  <!-- Gate name -->
+  <text x="207" y="128" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" fill="black">AND</text>
+</svg>
