@@ -241,4 +241,24 @@ Test these gates with CircuitVerse
 - <a href="https://circuitverse.org/simulator/embed/not-gate-c4fa7c72-7570-466c-b970-4f76dd782f60">NOT gate - CircuitVerse</a>
 
 
+---
+
+- <a href="https://circuitverse.org/simulator/embed/nand-gate-b11f3780-f7ec-4782-9d77-88e47aa5d4a5>">NAND gate - CircuitVerse</a>
+
+- <a href="https://circuitverse.org/simulator/embed/nor-gate-be0bc3f9-0fa6-43ef-9ae1-f6ca75f78211>">NOR gate - CircuitVerse</a>
+
+- <a href="https://circuitverse.org/simulator/embed/xor-gate-a4e12ef4-585a-4b42-a22e-d209b92d283c>">XOR gate - CircuitVerse</a>
+
+---
+
+- <a href="https://circuitverse.org/simulator/embed/sample-circuit-r-a-or-b-and-not-c">Sample Circuit - CircuitVerse</a>
+
+---
+
+--end--
+
+
+
+
+
 
