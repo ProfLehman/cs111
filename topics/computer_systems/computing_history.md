@@ -22,11 +22,11 @@ The abacus has been used for thousands of years, with its origins likely dating 
 
 ### Examples of abacuses
 
-![Chinese Abacus](images/file-66b124e9a6eb1.png)
+![Chinese Abacus](images/computing_history/file-66b124e9a6eb1.png)
 
-![Russian Abacus](images/file-66ce314530f1d.jpg)
+![Russian Abacus](images/computing_history/file-66ce314530f1d.jpg)
 
-![Japanese Abacus](images/file-66ce316ed9140.jpg)
+![Japanese Abacus](images/computing_history/file-66ce316ed9140.jpg)
 
 ---
 
@@ -38,9 +38,9 @@ The abacus has been used for thousands of years, with its origins likely dating 
 - The **second number** is formed by arranging appropriate rods for each digit.  
 - Add numbers in diagonal columns to multiply.
 
-![Napier’s Bones](images/file-66b13d6ed61b1.png)
+![Napier’s Bones](images/computing_history/file-66b13d6ed61b1.png)
 
-![Example of Napier’s Bones](images/file-66b13dc6ce4cd.png)
+![Example of Napier’s Bones](images/computing_history/file-66b13dc6ce4cd.png)
 
 ---
 
@@ -52,7 +52,7 @@ The abacus has been used for thousands of years, with its origins likely dating 
 
 **The sample shown** demonstrates how to multiply **35 by 9**. The first digit is 5 and then 4 and 4 are added to form 11. In this case we use 1 as the second digit, carry the other 1 adding it to 2 giving 3 as the third digit, thus **35 × 9 = 315**.
 
-![Napier’s Bones Example (N × 35)](images/file-66b13de92f64a.png)
+![Napier’s Bones Example (N × 35)](images/computing_history/file-66b13de92f64a.png)
 
 ---
 
@@ -60,7 +60,7 @@ The abacus has been used for thousands of years, with its origins likely dating 
 
 The **slide rule** was developed primarily by English mathematician and clergyman **Reverend William Oughtred** in the early 17th century. He drew inspiration from the emerging work on logarithms by John Napier, who had invented logarithmic scales for calculation.
 
-![Slide Rule used at Huntington University](images/file-66b13fed75cc0.jpg)
+![Slide Rule used at Huntington University](images/computing_history/file-66b13fed75cc0.jpg)
 
 **Try one online:**  
 - https://www.antiquark.com/sliderule/sim/n909es/virtual-n909-es.html
@@ -74,17 +74,17 @@ Use logarithms. Multiply and divide by adding/subtracting numbers in a lookup ta
 Babbage’s Log Book at Google Books:  
 - https://books.google.com/books?id=piNNAAAAMAAJ&lpg=PR12&ots=N4yrKIWfUL&dq=inauthor%3A%22Charles%20Babbage%22%20logarithms&pg=PR2#v=onepage&q&f=false
 
-![Log Table](images/file-66ce3315c0fcc.png)
+![Log Table](images/computing_history/file-66ce3315c0fcc.png)
 
-![Babbage Log Table Book](images/file-66ce3335204b4.png)
+![Babbage Log Table Book](images/computing_history/file-66ce3335204b4.png)
 
 ---
 
 ## Burroughs “Portable”
 
-![Burroughs Portable Adding Machine](images/file-66ce338685b9c.jpg)
+![Burroughs Portable Adding Machine](images/computing_history/file-66ce338685b9c.jpg)
 
-![Burroughs Portable (image)](images/file-66ce33a30a423.png)
+![Burroughs Portable (image)](images/computing_history/file-66ce33a30a423.png)
 
 ---
 
@@ -92,15 +92,15 @@ Babbage’s Log Book at Google Books:
 
 ### Gem Adding Machine
 
-![Gem Adding Machine](images/file-66ce348736e79.jpg)
+![Gem Adding Machine](images/computing_history/file-66ce348736e79.jpg)
 
 ### Addometer
 
-![Addometer](images/file-66ce3430127ad.jpg)
+![Addometer](images/computing_history/file-66ce3430127ad.jpg)
 
 ### Addiator
 
-![Addiator](images/file-66ce34449635d.png)
+![Addiator](images/computing_history/file-66ce34449635d.png)
 
 ---
 
@@ -113,9 +113,9 @@ Babbage’s Log Book at Google Books:
 
 **Ada Lovelace** is considered the “**first programmer**” as she wrote program instructions for Babbage’s Analytical Engine.
 
-![Charles Babbage](images/file-66ce35539aa8e.png)
+![Charles Babbage](images/computing_history/file-66ce35539aa8e.png)
 
-![Ada Lovelace](images/file-66ce356caedb7.png)
+![Ada Lovelace](images/computing_history/file-66ce356caedb7.png)
 
 ---
 
@@ -123,15 +123,15 @@ Babbage’s Log Book at Google Books:
 
 **Joseph Jacquard** was a French inventor who revolutionized the textile industry with a programmable loom using **punch cards** that laid the foundation for storing data in early computers.
 
-![Jacquard](images/file-66ce3632ad29a.jpg)
+![Jacquard](images/computing_history/file-66ce3632ad29a.jpg)
 
 **Herman Hollerith** won the contract for the **1890 census**, processing data using sets of “punched cards.” His company later became **International Business Machines (IBM)**.
 
-![Herman Hollerith](images/file-66ce35f358e6c.jpg)
+![Herman Hollerith](images/computing_history/file-66ce35f358e6c.jpg)
 
-![Hollerith Machine](images/file-66ce360c04db3.jpg)
+![Hollerith Machine](images/computing_history/file-66ce360c04db3.jpg)
 
-![IBM punch cards](images/file-66ce84a1ecdba.png)
+![IBM punch cards](images/computing_history/file-66ce84a1ecdba.png)
 
 ---
 
@@ -166,9 +166,9 @@ Digital computers arrive in the **1940’s** with calculation needs for World Wa
 - **Transistors** (1959)  
 - **Integrated Circuits (IC)** (1965)
 
-![Vacuum Tube Display at Bletchley Park UK (Lehman 2022)](images/file-66ce761303163.jpg)
+![Vacuum Tube Display at Bletchley Park UK (Lehman 2022)](images/computing_history/file-66ce761303163.jpg)
 
-![Left to Right: Vacuum Tube, Transistor, Integrated Circuit, Microchip (Lehman 2024)](images/file-66ce76284fda6.png)
+![Left to Right: Vacuum Tube, Transistor, Integrated Circuit, Microchip (Lehman 2024)](images/computing_history/file-66ce76284fda6.png)
 
 ---
 
@@ -184,13 +184,13 @@ Personal computers first arrive in the **1970’s**.
 - **1985** — **Microsoft Windows 1.0** — online demo  
   https://www.pcjs.org/software/pcx86/sys/windows/1.01/ega/
 
-![Altair](images/file-66ce78b18ecac.png)
+![Altair](images/computing_history/file-66ce78b18ecac.png)
 
-![Apple II](images/file-66ce78ce4df04.png)
+![Apple II](images/computing_history/file-66ce78ce4df04.png)
 
-![IBM PC](images/file-66ce78986163e.png)
+![IBM PC](images/computing_history/file-66ce78986163e.png)
 
-![Macintosh](images/file-66ce78e89320a.png)
+![Macintosh](images/computing_history/file-66ce78e89320a.png)
 
 ---
 
@@ -229,10 +229,10 @@ It is often not easy to know what key developments are in technology until some 
 - **Computer History Museum** — https://computerhistory.org/  
 - **Huntington University Library** has a good selection of computing history books.
 
-![The Computer Book](images/file-66ce80934a7c7.jpg)
+![The Computer Book](images/computing_history/file-66ce80934a7c7.jpg)
 
-![Bit by Bit Book](images/file-66ce80a86887b.jpg)
+![Bit by Bit Book](images/computing_history/file-66ce80a86887b.jpg)
 
-![The Victorian Internet Book](images/file-66ce80bf5495f.jpg)
+![The Victorian Internet Book](images/computing_history/file-66ce80bf5495f.jpg)
 
-![Tubes Book](images/file-66ce80d0f2b0a.jpg)
+![Tubes Book](images/computing_history/file-66ce80d0f2b0a.jpg)
