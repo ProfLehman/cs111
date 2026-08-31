@@ -232,8 +232,13 @@ You can use CircuitVerse to:
 When working with a circuit, follow the signals **from left to right**, determining the output of each gate as you go.
 
 
-<a href="https://circuitverse.org/simulator/embed/and-gate-668e59f1-b782-40b7-bea4-855d5ac65f8b">AND gate - CircuitVerse</a>
+Test these gates with CircuitVerse
 
+- <a href="https://circuitverse.org/simulator/embed/and-gate-668e59f1-b782-40b7-bea4-855d5ac65f8b">AND gate - CircuitVerse</a>
+
+- <a href="https://circuitverse.org/users/26691/projects/or-gate-99badba6-9a45-4013-8912-5eb0f5d2ac7b">OR gate - CircuitVerse</a>
+
+- <a href="https://circuitverse.org/users/26691/projects/not-gate-c4fa7c72-7570-466c-b970-4f76dd782f60">NOT gate - CircuitVerse</a>
 
 
 
