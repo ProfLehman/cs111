@@ -1,6 +1,3 @@
----
-title: "History Overview"
----
 
 # History Overview
 **Dr. Lehman**
