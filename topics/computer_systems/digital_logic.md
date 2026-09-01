@@ -201,6 +201,31 @@ where `n` is the number of inputs.
 
 ---
 
+### Three input circuit
+
+* `A`, `B` and `C` are the **inputs**.
+* `R` is the **result** or output.
+
+<img src="images/digital_logic/sample_circuit.png" width="300">
+
+### Sample Circuit Truth Table
+| A | B | C | A + B | NOT C | R |
+| - | - | - | ----- | ----- | - |
+| 0 | 0 | 0 | 0     | 1     | 0 |
+| 0 | 0 | 1 | 0     | 0     | 0 |
+| 0 | 1 | 0 | 1     | 1     | **1** |
+| 0 | 1 | 1 | 1     | 0     | 0 |
+| 1 | 0 | 0 | 1     | 1     | **1** |
+| 1 | 0 | 1 | 1     | 0     | 0 |
+| 1 | 1 | 0 | 1     | 1     | **1** |
+| 1 | 1 | 1 | 1     | 0     | 0 |
+
+
+Note: the intermediate steps are shown for `A or B` and `NOT C`
+
+---
+
+
 # Hardware Circuits
 
 Real computer circuits are built using electronic components etched onto **silicon chips**.
