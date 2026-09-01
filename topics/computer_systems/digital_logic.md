@@ -7,7 +7,9 @@
 
   * **1** = on
   * **0** = off
-* Computers process data using electronic switches called **gates** or **logic gates** that control the flow of electrical signals.
+
+* Computers process binary data using electronic circuits called **gates** or **logic gates**, which are built from electronic switches called **transistors**.  These gates control the flow of electrical signals.
+
 * All computer logic can be built using three basic logic gates:
 
   * **AND**
@@ -24,7 +26,7 @@
 
 ## AND Gate
 
-<img src="images/digital_logic/and_gate.svg" width="300">
+<img src="images/digital_logic/and_gate.svg" width="300" alt="AND gate">
 
 An **AND gate** has two inputs and one output.
 
@@ -56,7 +58,7 @@ These are the binary representations of decimal values `0`, `1`, `2`, and `3`.
 
 ## OR Gate
 
-<img src="images/digital_logic/or_gate.svg" width="300">
+<img src="images/digital_logic/or_gate.svg" width="300" alt="OR gate">
 
 An **OR gate** has two inputs and one output.
 
@@ -76,7 +78,7 @@ An **OR gate** has two inputs and one output.
 
 ## NOT Gate
 
-<img src="images/digital_logic/not_gate.svg" width="300">
+<img src="images/digital_logic/not_gate.svg" width="300" alt="NOT gate">
 
 A **NOT gate** has only **one input**.
 
@@ -98,7 +100,7 @@ The NOT gate reverses, or **toggles**, the input:
 
 > **NAND will not be on the assessment.**
 
-<img src="images/digital_logic/nand_gate.svg" width="300">
+<img src="images/digital_logic/nand_gate.svg" width="300" alt="NAND gate">
 
 A **NAND gate** is an AND operation followed by a NOT operation.
 
@@ -119,7 +121,7 @@ It produces the **opposite result of an AND gate**.
 
 > **NOR will not be on the assessment.**
 
-<img src="images/digital_logic/nor_gate.svg" width="300">
+<img src="images/digital_logic/nor_gate.svg" width="300" alt="NOR gate">
 
 A **NOR gate** is an OR operation followed by a NOT operation.
 
@@ -140,7 +142,7 @@ It produces the **opposite result of an OR gate**.
 
 > **XOR will not be on the assessment.**
 
-<img src="images/digital_logic/xor_gate.svg" width="300">
+<img src="images/digital_logic/xor_gate.svg" width="300" alt="XOR gate">
 
 **XOR** means **exclusive OR**.
 
@@ -169,10 +171,12 @@ The result is `1` when either `A` or `B` is `1`, **but not when both are `1`**.
 
 ### Three input circuit
 
+This circuit implements **R = (A OR B) AND NOT C**.
+
 * `A`, `B` and `C` are the **inputs**.
 * `R` is the **result** or output.
 
-<img src="images/digital_logic/sample_circuit.png" width="300">
+<img src="images/digital_logic/sample_circuit.png" width="300" alt="sample three input circuit">
 
 ### Sample Circuit Truth Table
 | A | B | C | A + B | NOT C | R |
@@ -234,20 +238,20 @@ Real computer circuits are built using electronic components etched onto **silic
 
 For example, the **7400** integrated circuit contains **four independent 2-input NAND gates**.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/TexasInstruments_7400_chip%2C_view_and_element_placement.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/TexasInstruments_7400_chip%2C_view_and_element_placement.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" width="200" alt="NAND chip with pinout">
 
 Modern processors contain **billions of transistors**, which are combined to implement logic gates and much more complex circuits.
 
 Circuits can also be built and tested using **breadboards**. In the following example, a 7400 chip is connected to power and ground. One of its NAND gates uses the yellow and blue wires as inputs and the green wire as the output.
 
-<img src="images/digital_logic/breadboard.jpg" width="450">
+<img src="images/digital_logic/breadboard.jpg" width="450" alt"breadboard with 7400 NAND chip">
 ---
 
 ## CircuitVerse
 
 [**CircuitVerse**](https://circuitverse.org/) is an online tool for building and testing digital logic circuits. Building and testing circuits with software is generally easier and more efficient than using physical hardware components.
 
-<img src="images/digital_logic/circuit_verse.png">
+<img src="images/digital_logic/circuit_verse.png" alt"circuitverse circuit">
 
 You can use CircuitVerse to:
 
