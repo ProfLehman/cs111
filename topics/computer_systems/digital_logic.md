@@ -161,7 +161,7 @@ The result is `1` when either `A` or `B` is `1`, **but not when both are `1`**.
 
 ---
 
-# Circuits
+## Circuits
 
 * Logic gates are combined to form **circuits**.
 * Circuits use combinations of gates to perform processing.
@@ -187,7 +187,7 @@ The result is `1` when either `A` or `B` is `1`, **but not when both are `1`**.
 | 1 | 1 | 1 | 1     | 0     | 0 |
 
 
-Note: the intermediate steps are shown for `A or B` and `NOT C`
+Note: the intermediate steps are shown for `A or B` and `NOT C` with the `+` indicating the Boolean algebra `or`.
 
 ---
 ## Number of Input Combinations
@@ -224,29 +224,28 @@ where `n` is the number of inputs.
 
 ---
 
-# Hardware Circuits
+## Hardware Circuits
 
 Real computer circuits are built using electronic components etched onto **silicon chips**.
 
-* Electrical voltage can be used to represent a binary `1`.
-* Little or no voltage can represent a binary `0`.
+* Electrical voltage levels can be used to represent binary `1` and `0`.
 * A single integrated circuit may contain multiple logic gates.
 * A **pinout diagram** shows where the inputs, outputs, power, and other connections are located on a chip.
 
-For example, a logic chip might contain **four AND gates** on a single integrated circuit.  The following is a 7400 chip with 8 and gates.
+For example, the **7400** integrated circuit contains **four independent 2-input NAND gates**.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/TexasInstruments_7400_chip%2C_view_and_element_placement.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" width="200">
 
 Modern processors contain **billions of transistors**, which are combined to implement logic gates and much more complex circuits.
 
-Circuits can be built and tested with **breadboards**. In the following image, a breadboard has a 7400 chip with four AND gates is connected to Power (red), Ground (black).  One of the AND gates is utilized: yellow and blue wires for input and green wire for output.
+Circuits can also be built and tested using **breadboards**. In the following example, a 7400 chip is connected to power and ground. One of its NAND gates uses the yellow and blue wires as inputs and the green wire as the output.
 
 <img src="images/digital_logic/breadboard.jpg" width="450">
 ---
 
-# CircuitVerse
+## CircuitVerse
 
-[**CircuitVerse**](https://circuitverse.org/) is an online tool for building and testing digital logic circuits. Building and testing circuits with software is generally easier and more efficient that using physical hardware components.
+[**CircuitVerse**](https://circuitverse.org/) is an online tool for building and testing digital logic circuits. Building and testing circuits with software is generally easier and more efficient than using physical hardware components.
 
 <img src="images/digital_logic/circuit_verse.png">
 
@@ -273,11 +272,11 @@ Test these gates with CircuitVerse
 
 ---
 
-- <a href="https://circuitverse.org/simulator/embed/nand-gate-b11f3780-f7ec-4782-9d77-88e47aa5d4a5>">NAND gate - CircuitVerse</a>
+- <a href="https://circuitverse.org/simulator/embed/nand-gate-b11f3780-f7ec-4782-9d77-88e47aa5d4a5">NAND gate - CircuitVerse</a>
 
-- <a href="https://circuitverse.org/simulator/embed/nor-gate-be0bc3f9-0fa6-43ef-9ae1-f6ca75f78211>">NOR gate - CircuitVerse</a>
+- <a href="https://circuitverse.org/simulator/embed/nor-gate-be0bc3f9-0fa6-43ef-9ae1-f6ca75f78211">NOR gate - CircuitVerse</a>
 
-- <a href="https://circuitverse.org/simulator/embed/xor-gate-a4e12ef4-585a-4b42-a22e-d209b92d283c>">XOR gate - CircuitVerse</a>
+- <a href="https://circuitverse.org/simulator/embed/xor-gate-a4e12ef4-585a-4b42-a22e-d209b92d283c">XOR gate - CircuitVerse</a>
 
 ---
 
