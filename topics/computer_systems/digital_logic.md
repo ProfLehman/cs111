@@ -169,7 +169,7 @@ The result is `1` when either `A` or `B` is `1`, **but not when both are `1`**.
 * Circuits use combinations of gates to perform processing.
 * To determine the result of a circuit, follow the flow from the **inputs on the left** through each gate to the **output on the right**.
 
-### Three input circuit
+### Three-input circuit
 
 This circuit implements **R = (A OR B) AND NOT C**.
 
@@ -191,7 +191,7 @@ This circuit implements **R = (A OR B) AND NOT C**.
 | 1 | 1 | 1 | 1     | 0     | 0 |
 
 
-Note: the intermediate steps are shown for `A or B` and `NOT C` with the `+` indicating the Boolean algebra `or`.
+Note: The intermediate steps are shown for `A OR B` and `NOT C`, with `+` representing the Boolean OR operation.
 
 ---
 ## Number of Input Combinations
@@ -251,7 +251,7 @@ Circuits can also be built and tested using **breadboards**. In the following ex
 
 [**CircuitVerse**](https://circuitverse.org/) is an online tool for building and testing digital logic circuits. Building and testing circuits with software is generally easier and more efficient than using physical hardware components.
 
-<img src="images/digital_logic/circuit_verse.png" alt"circuitverse circuit">
+<img src="images/digital_logic/circuit_verse.png" alt="circuitverse circuit">
 
 You can use CircuitVerse to:
 
