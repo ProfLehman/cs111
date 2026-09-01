@@ -244,7 +244,7 @@ Modern processors contain **billions of transistors**, which are combined to imp
 
 Circuits can also be built and tested using **breadboards**. In the following example, a 7400 chip is connected to power and ground. One of its NAND gates uses the yellow and blue wires as inputs and the green wire as the output.
 
-<img src="images/digital_logic/breadboard.jpg" width="450" alt"breadboard with 7400 NAND chip">
+<img src="images/digital_logic/breadboard.jpg" width="450" alt="breadboard with 7400 NAND chip">
 ---
 
 ## CircuitVerse
