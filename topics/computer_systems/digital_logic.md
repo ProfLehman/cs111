@@ -167,6 +167,29 @@ The result is `1` when either `A` or `B` is `1`, **but not when both are `1`**.
 * Circuits use combinations of gates to perform processing.
 * To determine the result of a circuit, follow the flow from the **inputs on the left** through each gate to the **output on the right**.
 
+### Three input circuit
+
+* `A`, `B` and `C` are the **inputs**.
+* `R` is the **result** or output.
+
+<img src="images/digital_logic/sample_circuit.png" width="300">
+
+### Sample Circuit Truth Table
+| A | B | C | A + B | NOT C | R |
+| - | - | - | ----- | ----- | - |
+| 0 | 0 | 0 | 0     | 1     | 0 |
+| 0 | 0 | 1 | 0     | 0     | 0 |
+| 0 | 1 | 0 | 1     | 1     | **1** |
+| 0 | 1 | 1 | 1     | 0     | 0 |
+| 1 | 0 | 0 | 1     | 1     | **1** |
+| 1 | 0 | 1 | 1     | 0     | 0 |
+| 1 | 1 | 0 | 1     | 1     | **1** |
+| 1 | 1 | 1 | 1     | 0     | 0 |
+
+
+Note: the intermediate steps are shown for `A or B` and `NOT C`
+
+---
 ## Number of Input Combinations
 
 For two inputs (`A` and `B`), there are **4 possible input combinations**:
@@ -201,31 +224,6 @@ where `n` is the number of inputs.
 
 ---
 
-### Three input circuit
-
-* `A`, `B` and `C` are the **inputs**.
-* `R` is the **result** or output.
-
-<img src="images/digital_logic/sample_circuit.png" width="300">
-
-### Sample Circuit Truth Table
-| A | B | C | A + B | NOT C | R |
-| - | - | - | ----- | ----- | - |
-| 0 | 0 | 0 | 0     | 1     | 0 |
-| 0 | 0 | 1 | 0     | 0     | 0 |
-| 0 | 1 | 0 | 1     | 1     | **1** |
-| 0 | 1 | 1 | 1     | 0     | 0 |
-| 1 | 0 | 0 | 1     | 1     | **1** |
-| 1 | 0 | 1 | 1     | 0     | 0 |
-| 1 | 1 | 0 | 1     | 1     | **1** |
-| 1 | 1 | 1 | 1     | 0     | 0 |
-
-
-Note: the intermediate steps are shown for `A or B` and `NOT C`
-
----
-
-
 # Hardware Circuits
 
 Real computer circuits are built using electronic components etched onto **silicon chips**.
@@ -235,7 +233,9 @@ Real computer circuits are built using electronic components etched onto **silic
 * A single integrated circuit may contain multiple logic gates.
 * A **pinout diagram** shows where the inputs, outputs, power, and other connections are located on a chip.
 
-For example, a logic chip might contain **four AND gates** on a single integrated circuit.
+For example, a logic chip might contain **four AND gates** on a single integrated circuit.  The following is a 7400 chip with 8 and gates.
+
+<img src="https://en.wikipedia.org/wiki/7400-series_integrated_circuits#/media/File:TexasInstruments_7400_chip,_view_and_element_placement.jpg" width="200">
 
 Modern processors contain **billions of transistors**, which are combined to implement logic gates and much more complex circuits.
 
