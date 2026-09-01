@@ -235,15 +235,20 @@ Real computer circuits are built using electronic components etched onto **silic
 
 For example, a logic chip might contain **four AND gates** on a single integrated circuit.  The following is a 7400 chip with 8 and gates.
 
-<img src="https://en.wikipedia.org/wiki/7400-series_integrated_circuits#/media/File:TexasInstruments_7400_chip,_view_and_element_placement.jpg" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/TexasInstruments_7400_chip%2C_view_and_element_placement.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" width="200">
 
 Modern processors contain **billions of transistors**, which are combined to implement logic gates and much more complex circuits.
 
+Circuits can be built and tested with **breadboards**. In the following image, a breadboard has a 7400 chip with four AND gates is connected to Power (red), Ground (black).  One of the AND gates is utilized: yellow and blue wires for input and green wire for output.
+
+<img src="images/digital_logic/breadboard.jpg" width="450">
 ---
 
 # CircuitVerse
 
-[**CircuitVerse**](https://circuitverse.org/) is an online tool for building and testing digital logic circuits.
+[**CircuitVerse**](https://circuitverse.org/) is an online tool for building and testing digital logic circuits. Building and testing circuits with software is generally easier and more efficient that using physical hardware components.
+
+<img src="images/digital_logic/circuit_verse.png">
 
 You can use CircuitVerse to:
 
