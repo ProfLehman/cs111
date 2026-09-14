@@ -59,7 +59,7 @@ Example binary output:
 
 `01000001 00110001 00100000 01100001 00110010`
 
-![Rapid Tables: ASCII Text to Binary Screenshot ](text_representation/text_to_binary.png)
+![Rapid Tables: ASCII Text to Binary Screenshot ](images/text_representation/text_to_binary.png)
 
 
 ---
@@ -76,7 +76,7 @@ Example ASCII output:
 
 `A`
 
-![Rapid Tables: Binary to ASCII Text](text_representation/binary_to_text.png)
+![Rapid Tables: Binary to ASCII Text](images/text_representation/binary_to_text.png)
 
 ---
 
@@ -88,7 +88,7 @@ RapidTables also provides a converter that displays text as **binary, decimal, a
 
 <!-- Add image from original H5P: text to binary, decimal, and hex converter -->
 
-![Rapid Tables: ASCII Text to binary, decimal, hex](text_representation/text_to_binary_decimal_hex.png)
+![Rapid Tables: ASCII Text to binary, decimal, hex](images/text_representation/text_to_binary_decimal_hex.png)
 
 
 ---
