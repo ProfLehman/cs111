@@ -1,4 +1,4 @@
-Yes — here is the revised page with **CSV, HTML, and JSON added**, and **BMP/WebP removed**.
+![File Formats](images/file_formats/file_formats.png)
 
 # Common File Formats
 
