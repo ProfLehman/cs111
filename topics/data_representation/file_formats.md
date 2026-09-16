@@ -12,7 +12,7 @@ Different formats are designed for different types of data. Some formats also us
 
 A **TXT file** contains plain text without document formatting such as fonts, colors, images, or page layouts. The characters in a text file must be represented using a character encoding such as **ASCII** or **UTF-8**. The `.txt` extension does not specify which character encoding is being used, although UTF-8 is common today. Text files are simple, portable, and can be opened by almost any text editor.
 
-**Reference:** [IANA — `text/plain` Media Type](https://www.iana.org/assignments/media-types/text/plain)
+**Reference:** [Wikipedia overview for text files]([https://www.iana.org/assignments/media-types/text/plain](https://en.wikipedia.org/wiki/Text_file)
 
 ### CSV (`.csv`)
 
