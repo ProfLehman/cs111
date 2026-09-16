@@ -105,6 +105,56 @@ Examples:
 > For this course, you only need to know the approximations for each term.
 
 ---
+## File Size and Storage Conversion Examples
+
+For these examples, use:
+
+- **8 bits = 1 byte**
+- **1,000 bytes = 1 KB**
+- **1,000 KB = 1 MB**
+- **1,000 MB = 1 GB**
+
+> You will need to know thse for the CC_01 Assessment
+
+### Example 1 — Bits to Bytes
+
+A small file contains **64 bits** of data. How many bytes is this?
+
+64 bits ÷ 8 bits/byte = **8 bytes**
+
+---
+
+### Example 2 — Bytes to Kilobytes
+
+A text file contains **12,000 bytes**. How many kilobytes (KB) is this?
+
+12,000 bytes ÷ 1,000 bytes/KB = **12 KB**
+
+---
+
+### Example 3 — Kilobytes to Megabytes
+
+An image file is **4,500 KB**. How many megabytes (MB) is this?
+
+4,500 KB ÷ 1,000 KB/MB = **4.5 MB**
+
+---
+
+### Example 4 — Megabytes to Gigabytes
+
+A video file is **2,500 MB**. How many gigabytes (GB) is this?
+
+2,500 MB ÷ 1,000 MB/GB = **2.5 GB**
+
+---
+
+### Example 5 — Gigabytes to Megabytes
+
+A USB drive has **8 GB** of storage. How many megabytes (MB) is this?
+
+8 GB × 1,000 MB/GB = **8,000 MB**
+
+---
 
 ## Data Compression
 
