@@ -209,6 +209,7 @@ Both **Windows and macOS include built-in support for ZIP files**.
 
 [Apple Support — Zip and unzip files and folders on Mac](https://support.apple.com/guide/mac-help/zip-and-unzip-files-and-folders-on-mac-mchlp2528/mac)
 
+
 ---
 
 ## Optional: Huffman Compression
@@ -258,6 +259,12 @@ Count the bits below the text:
 **Step #4 — ASCII Bits**
 
 `"gala apple"` = 10 total letters/spaces × 8 bits each = `80 bits` for ASCII.
+
+```text
+   g         a        l        a      space     a        p        p        l        e
+01100111 01100001 01101100 01100001 00100000 01100001 01110000 01110000 01101100 01100101
+````
+
 
 **Step #5 — Compression Ratio**
 
