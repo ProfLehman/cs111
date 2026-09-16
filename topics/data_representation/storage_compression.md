@@ -1,10 +1,13 @@
+![Page Graphic Overview](images/storage_compression/storage_compression.png)
+
+
 # Data Representation and Compression
 
 ## Analog Information
 
 **Analog data is continuous** and can take **unlimited values within a given range**.
 
-Examples include:
+![Analog Examples](images/storage_compression/analog_examples.png)
 
 - **Vinyl Records** — The grooves on a vinyl record represent continuous sound waves, which are an analog form of audio data.
 - **Mercury Thermometer** — The height of the mercury column continuously varies with temperature, providing an analog representation of the temperature.
@@ -12,9 +15,8 @@ Examples include:
 - **Film Photography** — The varying levels of light exposure on the film create a continuous range of colors and shades.
 - **Radio Waves** — Continuous electromagnetic waves used for broadcasting audio signals.
 
-It is impossible to create a perfect copy of analog data.
+>It is impossible to create a perfect copy of analog data.
 
-<!-- Add image from original H5P: analog devices -->
 
 ---
 
@@ -24,7 +26,7 @@ It is impossible to create a perfect copy of analog data.
 
 Digital information allows for **perfect copying**, because digital copies are identical to the original.
 
-Examples include:
+![Digital Examples](images/storage_compression/digital_examples.png)
 
 - **CDs and DVDs** — Store audio and video data as discrete binary (0s and 1s) signals.
 - **Digital Thermometer** — Displays temperature as discrete numbers on a digital screen.
