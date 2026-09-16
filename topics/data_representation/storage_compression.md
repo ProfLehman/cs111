@@ -114,7 +114,7 @@ For these examples, use:
 - **1,000 KB = 1 MB**
 - **1,000 MB = 1 GB**
 
-> You will need to know thse for the CC_01 Assessment
+> You will need to know these for the CC_01 Assessment
 
 ### Example 1 — Bits to Bytes
 
@@ -183,6 +183,31 @@ Compression techniques are either **lossy** or **lossless**.
 - **Cons:** Some loss of quality; original cannot be fully restored.
 
 [Additional Information: Difference Between Lossy Compression and Lossless Compression](https://www.geeksforgeeks.org/difference-between-lossy-compression-and-lossless-compression/)
+
+---
+## ZIP Files
+
+A **ZIP file** (`.zip`) is an archive file that can combine one or more files and folders into a single file. ZIP files commonly use **lossless compression**, meaning the original files can be restored exactly when they are extracted.
+
+Common reasons to use ZIP files include:
+
+* **Reduce file size** — compressed files may require less storage space.
+* **Combine files** — multiple files and folders can be packaged into a single ZIP file.
+* **Transfer files** — a single ZIP file is often easier to upload, download, email, or share.
+* **Preserve folders** — the directory structure of a group of files can be stored within the ZIP archive.
+
+**Zip** or **compress** refers to creating a ZIP file. **Unzip**, **decompress**, or **extract** refers to restoring the files from the ZIP archive.
+
+> Files that are already compressed, such as JPEG images, MP3 audio, and MP4 video, may not become significantly smaller when placed in a ZIP file.
+
+Both **Windows and macOS include built-in support for ZIP files**.
+
+* In **Windows**, you can right-click a file or folder and use the built-in compression options to create a ZIP file.
+* On a **Mac**, Control-click a file or folder in Finder and choose **Compress**. Double-clicking a ZIP file extracts its contents.
+
+[Microsoft Support — Zip and unzip files](https://support.microsoft.com/en-us/windows/experience/storage-filemanagement/zip-and-unzip-files)
+
+[Apple Support — Zip and unzip files and folders on Mac](https://support.apple.com/guide/mac-help/zip-and-unzip-files-and-folders-on-mac-mchlp2528/mac)
 
 ---
 
