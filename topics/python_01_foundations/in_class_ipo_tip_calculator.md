@@ -1,7 +1,8 @@
 # In-Class Assignment - Tip Calculator
 
 **Must work in groups of two, one computer**
-***Do not start codding until step #3***
+
+**Do not start codding until step #3**
 
 
 <img src="tip_calculator_friends.png" alt="Friends eating together at a restaurant" width="300">
