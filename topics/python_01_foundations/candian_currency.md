@@ -2,7 +2,7 @@
 
 ![Currency Image](./currency.png)
 
-**Instructions:** Work in groups of two, using one computer  
+**Instructions:** Work in groups of two, using one computer, Or on own as practice exercise  
 ---
 
 ## Scenario
