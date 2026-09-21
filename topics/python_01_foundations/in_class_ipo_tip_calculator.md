@@ -1,14 +1,17 @@
 # In-Class Assignment - Tip Calculator
 
 **Must work in groups of two, one computer**
+***Do not start codding until step #3***
+
 
 <img src="tip_calculator_friends.png" alt="Friends eating together at a restaurant" width="300">
+
+***Do not start codding until step #3***
 
 ## Scenario
 
 You've just finished eating out with friends and want to split the bill fairly. You'll create an app that calculates how much each person should pay, including the tip. The user will input the total bill, the desired tip percentage, and the number of people splitting the bill. The program will then calculate how much each person owes.
 
-*** Do not start codding until step #3 ***
 
 ## Step 1: Manually Work Out x4 Sample Calculations
 
