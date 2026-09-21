@@ -12,10 +12,10 @@ You’re in Canada and want an app that tells you the equivalent U.S. dollar cos
 **Example:**  
 If an item is **$45.67 CAD** and the exchange rate is **0.72222254 US dollars per Canadian Dollar**, the app should display the price in U.S. dollars ie. **$32.98**.
 
-Create a program that will input an item price in Canadian dollars and the exchange rate, calculate annd display the US dollar price to two decimal places.
+### Create a program that will input an item price in Canadian dollars and the exchange rate, calculate annd display the US dollar price to two decimal places.
 ---
 
-## Step 1: Create an IPO Chart
+## Step 1: Create an IPO Chart  (Use Planning Sheet Provided)
 
 1. Identify inputs (what data you’ll get from the user)  
 2. Describe the processing (what calculation is needed)  
@@ -25,6 +25,7 @@ Create a program that will input an item price in Canadian dollars and the excha
 | Input | Processing | Output |
 |------|-----------|--------|
 |      |           |        |
+|      |           |        |
 
 ---
 
@@ -33,7 +34,9 @@ Create a program that will input an item price in Canadian dollars and the excha
 1. Create four sets of test data with expected results  
 2. Verify your expected results using an online converter or calculator  
 
-| Sample Input | Expected Output |
+### Sample Calculations   (Use Planning Sheet Provided)
+
+|    Input | Expected Output |
 |-------------|----------------|
 | 1.          |                |
 | 2.          |                |
@@ -42,7 +45,7 @@ Create a program that will input an item price in Canadian dollars and the excha
 
 ---
 
-## Step 3: Write the Python Code
+## Step 3: Write the Python Code (Use Thonny)
 
 *(Use IPO and sample test data as a guide)*
 
