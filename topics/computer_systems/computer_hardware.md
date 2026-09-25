@@ -155,8 +155,39 @@ Many modern computing problems are **parallel**, not sequential—making GPUs es
 - **Science & Research:** Weather modeling, simulations, and medical imaging run much faster on GPUs  
 - **Everyday Devices:** Phones, tablets, and laptops include GPUs for graphics and AI features  
 
+---
+### Neural Processing Units (NPUs)
+
+**Neural Processing Units (NPUs)** are specialized processors designed to efficiently perform **artificial intelligence (AI) and machine learning calculations**.
+
+## What NPUs Do Well
+
+- Perform calculations commonly used by **AI and machine learning models**
+- Handle many AI operations efficiently while using relatively little power
+- Allow some AI tasks to run **directly on the computer** instead of relying on cloud servers
+- Work **alongside the CPU and GPU**, not as a replacement
+
+## NPU Real-World Use Cases
+
+NPUs are becoming increasingly common in modern laptops and other devices as more AI processing is performed locally.
+
+- **Image Processing:** Enhance photographs, recognize objects, and modify images using AI
+- **Audio & Video:** Remove background noise, blur backgrounds, and improve video during online meetings
+- **Language Processing:** Support real-time translation, transcription, and other language-based AI features
+- **AI Assistants:** Help run AI features directly on a computer without sending every task to a cloud server
+- **Power Efficiency:** Perform AI tasks efficiently, which can help reduce CPU/GPU workload and power consumption in laptops
+
+--- 
+
+Modern computers may use the **CPU, GPU, and NPU together**, assigning different types of processing to the hardware best suited for each task.
+> **CPU:** best at general-purpose and sequential processing  
+> **GPU:** best at thousands of calculations running in parallel  
+> **NPU:** optimized for AI and machine learning calculations  
+
+See Microsoft's [A Guide to CPU, GPU, NPU, and Windows](https://www.microsoft.com/en-us/windows/learning-center/cpu-gpu-npu-windows).vvv
 
 ---  
+
 ## Motherboard and Ports
 
 * The **motherboard** is the main **printed circuit board (PCB)** of a computer  
