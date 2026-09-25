@@ -291,25 +291,47 @@ Test these gates with CircuitVerse
 ## CircuitVerse - Sample Circuits
 
 1. **Demultiplexer** circuit converts decimal to binary
--<a href="https://circuitverse.org/users/26691/projects/cs111-demultiplexor">Demultiplexer</a>- CircuitVerse
+- <a href="https://circuitverse.org/users/26691/projects/cs111-demultiplexor">Demultiplexer</a>- CircuitVerse
 
-3. **Multiplexor** circuit converts binary to decimal
+---
+
+2. **Multiplexor** circuit converts binary to decimal
 - <a href="https://circuitverse.org/users/26691/projects/cs111-multiplexor-430a4742-3147-4e41-b8a1-d4cee91acb54">Multiplexor</a>- CircuitVerse
 
-2. **2-Bit Adder** circuit adds two 2-bit numbers together (in binary)
+---
+
+3. **2-Bit Adder** circuit adds two 2-bit numbers together (in binary)
 -<a href="https://circuitverse.org/users/26691/projects/cs111-b16ce520-fe4b-4db2-aa67-bd6fc40eb44e">2-bit adder</a>- CircuitVerse
 
-3. **2-Bit Compare** circuit compares two 2-bit numbers (in binary) to determine if they are greater than or if they are less than each other
+---
+
+4. **2-Bit Compare** circuit compares two 2-bit numbers (in binary) to determine if they are greater than or if they are less than each other
 - <a href="https://circuitverse.org/users/26691/projects/cs-111-two-bit-compare">2-bit compare</a>- CircuitVerse
 
-4. **2-Bit Equal** circuit compares two 2-bit numbers (in binary) to determine if they are equal to each other
+---
+
+5. **2-Bit Equal** circuit compares two 2-bit numbers (in binary) to determine if they are equal to each other
 - <a href="https://circuitverse.org/users/26691/projects/2_bit_equal">2-bit equal</a>- CircuitVerse
 
-5. **2-Bit Greater Equal** circuit compares two 2-bit numbers (in binary) to determine if they are greater than or equal to each other
+---
+
+6. **2-Bit Greater Equal** circuit compares two 2-bit numbers (in binary) to determine if they are greater than or equal to each other
 - <a href="https://circuitverse.org/users/26691/projects/cs315_greater_equal">2-bit greater than or equal</a>- CircuitVerse
 
+---
 
+7. **Garage Door** circuit determines if door should open based on button press and safety sensor
+- <a href="https://circuitverse.org/users/26691/projects/garage-door-circuit-2026">Garage Door Logic</a>- CircuitVerse
 
+---
+
+8. **Camera Flash** circuit determines if camera flash should trigger based on based on button press and low lite sensor
+- <a href="https://circuitverse.org/users/26691/projects/camera-flash">Camera Flash Logic</a>- CircuitVerse
+
+---
+
+9. **Even Odd** circuit determines if a binary number is even or odd and drives 7-Segment display
+- <a href="https://circuitverse.org/users/26691/projects/even-odd-lcd-driver">Even Odd</a>- CircuitVerse
 
 --end--
 
