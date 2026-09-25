@@ -3,7 +3,7 @@
 
 # Practice Problem — Flooring Calculator
 
-<img src="flooring.png" alt="room width and length" width="300">
+<img src="flooring.png" alt="room width and length" width="400">
 
 ## Scenario
 You are planning to install new flooring in a rectangular room.
