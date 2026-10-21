@@ -167,7 +167,7 @@ The core protocol used on the Internet.
 
 # 6. Internet History
 
-- **1969** – ARPANET [early Internet](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~369647~90137022:First-Maps-of-the-Internet) begins.
+- **1969** – ARPANET [early Internet](https://www.vox.com/a/internet-maps) begins.
 - **1990s** – The **World Wide Web** becomes popular.
 
 The Internet is the global network of networks.  
