@@ -28,7 +28,6 @@ There are many tools available for creating web pages. Essentially you only need
 
 * [jsfiddle.net](https://jsfiddle.net/)
 * [jsbin.com](https://jsbin.com/)
-* [replit.com](https://replit.com/)
 
 ### Local Laptop/Desktop Text Editors
 
