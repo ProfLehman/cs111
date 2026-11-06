@@ -1,6 +1,6 @@
 # Introduction to Python Lists: Managing Collections of Data
 
-![list image](./python_lists.png)
+![list image](./python_lists_overview.png)
 
 Up to this point, we have been working with **simple variables**. A simple variable is like a single box that holds one piece of information—one name, one score, or one price. 
 
@@ -25,6 +25,9 @@ prices = [19.99, 5.50, 10.00]
 
 # An empty list (ready to be filled later)
 shopping_cart = []
+
+#  A list can hold different data types as well.
+exam_results = ["Amy", 100, "Bob", 72, "Carlos", 89 ]
 ```
 
 ---
@@ -100,3 +103,5 @@ while i < len(items):
 ```
 
 By using the length of the list (`len(items)`) as the limit, the loop automatically stops once it has touched every item in the collection.
+
+-- end --

@@ -1,9 +1,9 @@
-### Python Assignment 4 - Lists
+### Python List Practice (Movie Database)
 
 ![assignment graphic](./movie_list.png)
 
 ### Overview
-The purpose of this assignment is to learn how to build lists dynamically and process data in lists.
+The purpose of this practice exercise is to learn how to build lists dynamically and process data in lists.
 Instead of starting with a full list, you will use a **sentinel loop** to allow the user to build their own collection of movie data. 
 You will practice managing two lists `movies` and `scores` to keep titles and corresponding scores.
 
@@ -116,9 +116,6 @@ The highest score in your collection is 100%
 * add a list called `genre` that stores the type of movie, i.e., drama, comedy, action, horror
 
 ---
-
-### Submitting Assignment
-Upload `lists.py` to the course website.
-
+Sample Solution
 ---
 
