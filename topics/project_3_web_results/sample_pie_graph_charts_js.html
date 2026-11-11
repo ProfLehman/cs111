@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Students by Major</title>
+</head>
+<body>
+    <h1>Students by Major</h1>
+
+    <div style="width: 450px; max-width: 100%;">
+        <canvas id="majorChart"></canvas>
+    </div>
+
+    <!-- Load Chart.js and DataLabels plugin -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+
+    <script>
+        Chart.register(ChartDataLabels);
+
+        const ctx = document.getElementById('majorChart');
+
+        new Chart(ctx, {
+            type: 'pie',
+            data: {
+                labels: ['Business', 'CS', 'DMA', 'Math'],
+                datasets: [{
+                    data: [2, 7, 6, 4],
+                    backgroundColor: [
+                        'tomato',
+                        'steelblue',
+                        'gold',
+                        'mediumseagreen'
+                    ]
+                }]
+            },
+            options: {
+                plugins: {
+                    legend: {
+                        position: 'bottom'
+                    },
+                    datalabels: {
+                        color: 'black',
+                        font: {
+                            weight: 'bold',
+                            size: 13
+                        },
+                        formatter: (value, context) => {
+                            const data = context.dataset.data;
+                            const total = data.reduce((a, b) => a + b, 0);
+                            const percent = (value / total * 100).toFixed(1);
+                            const label = context.chart.data.labels[context.dataIndex];
+                            return label + '\n' + percent + '%';
+                        }
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>
