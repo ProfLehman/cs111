@@ -354,44 +354,7 @@ while i < len(students):
 
 ---
 
-### Step 8: Combine Input, Lists, and Processing
-
-**Goal:** Build a complete program that collects and processes list data.
-
-Example: collect student names and scores.
-
-```python
-names = []
-scores = []
-
-name = input("Enter student name or type quit to stop: ")
-
-while name != "quit":
-    score = int(input("Enter score: "))
-
-    names.append(name)
-    scores.append(score)
-
-    name = input("Enter student name or type quit to stop: ")
-
-i = 0
-
-while i < len(names):
-    print(f"{names[i]} scored {scores[i]}")
-    i = i + 1
-
-print(f"Class average: {sum(scores) / len(scores)}")
-print(f"Highest score: {max(scores)}")
-print(f"Lowest score: {min(scores)}")
-```
-
-**Important Note:**
-
-This program assumes at least one score was entered. Later, you can improve it by checking whether the list is empty before calculating the average.
-
----
-
-### Step 9: Watch for Common Mistakes
+### Step 8: Watch for Common Mistakes
 
 Here are the most common errors beginners make with lists.
 
@@ -450,8 +413,6 @@ while i < len(items):
     i = i + 1
 ```
 
----
-
 #### Mistake 4: Parallel lists with different lengths
 
 This can cause problems:
@@ -467,80 +428,6 @@ Make sure related parallel lists stay the same length.
 
 ---
 
-## Suggested Learning Sequence
-
-Here is the full sequence I would recommend:
-
-| Stage | Skill | Example Task |
-|---|---|---|
-| 1 | Create lists | Store names, scores, prices |
-| 2 | Access by index | Print first, last, and middle item |
-| 3 | Append data | Add values to an empty list |
-| 4 | Use sentinel loops | Let user enter values until done |
-| 5 | Use built-in functions | Find total, average, max, and min |
-| 6 | Loop through one list | Print each item using `while` |
-| 7 | Use parallel lists | Match names with scores |
-| 8 | Build a full program | Collect and analyze student data |
-| 9 | Debug list errors | Fix index and loop problems |
-
----
-
-## Mini-Project: Student Score Analyzer
-
-Once you understand the basics, build this program:
-
-### Requirements
-
-The program should:
-
-1. Create an empty list for student names.
-2. Create an empty list for scores.
-3. Ask the user to enter student names.
-4. Ask for each student’s score.
-5. Stop when the user types `"quit"`.
-6. Print each student and score.
-7. Print the class average.
-8. Print the highest score.
-9. Print the lowest score.
-
-### Starter Code
-
-```python
-names = []
-scores = []
-
-name = input("Enter student name or type quit to stop: ")
-
-while name != "quit":
-    score = int(input("Enter score: "))
-
-    names.append(name)
-    scores.append(score)
-
-    name = input("Enter student name or type quit to stop: ")
-
-print()
-print("Student Scores")
-print("--------------")
-
-i = 0
-
-while i < len(names):
-    print(f"{names[i]} scored {scores[i]}")
-    i = i + 1
-
-if len(scores) > 0:
-    average = sum(scores) / len(scores)
-
-    print()
-    print(f"Class average: {average}")
-    print(f"Highest score: {max(scores)}")
-    print(f"Lowest score: {min(scores)}")
-else:
-    print("No scores were entered.")
-```
-
----
 
 ## Final Mastery Checklist
 
@@ -553,7 +440,7 @@ You are ready to move on when you can confidently do these things:
 - [ ] Use `len()`, `sum()`, `max()`, and `min()`.
 - [ ] Use a `while` loop to process every item in a list.
 - [ ] Use parallel lists to connect related data.
-- [ ] Build a program that collects and analyzes user-entered list data.
+- [ ] Build a program that collects and analyzes user-entered list data. (See Chapel, Movie, and Student Score examples)
 - [ ] Avoid common index errors.
 - [ ] Explain what a sentinel value does.
 
