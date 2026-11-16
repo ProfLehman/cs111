@@ -1,5 +1,4 @@
-```markdown
-# Mini-Project: Student Score Analyzer
+# List Practice: Student Score Analyzer
 
 ## Overview
 
