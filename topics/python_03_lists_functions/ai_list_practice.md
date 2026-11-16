@@ -209,67 +209,7 @@ Dana scored 95
 
 ---
 
-## Optional Challenge Problem: Build a Shopping Cart
-
-### Skill Focus
-
-Combining appending, parallel lists, and list processing.
-
-### Scenario
-
-Create two empty lists:
-
-- `items`
-- `prices`
-
-Ask the user to enter three item names and three prices. Add each item to the `items` list and each price to the `prices` list.
-
-Then print a receipt showing each item and price.
-
-### Starter Code
-
-```python
-items = []
-prices = []
-
-item = input("Enter item name: ")
-price = float(input("Enter item price: "))
-
-# Append item and price to the correct lists
-
-
-item = input("Enter another item name: ")
-price = float(input("Enter another item price: "))
-
-# Append item and price to the correct lists
-
-
-item = input("Enter one more item name: ")
-price = float(input("Enter one more item price: "))
-
-# Append item and price to the correct lists
-
-
-print()
-print("Receipt")
-print("-------")
-
-i = 0
-
-while i < len(items):
-    # Print item and matching price
-
-    
-    # Increase i
-
-
-# Print the total cost
-
-```
-
----
-
-## Quick Student Reminder
+## Quick Reminder
 
 When processing lists with a `while` loop, use this pattern:
 
