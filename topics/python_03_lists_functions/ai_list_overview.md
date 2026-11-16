@@ -1,6 +1,4 @@
-AI 
-
-Jeff, here’s a step-by-step learning plan for mastering how to **process data in Python lists**, based on your introduction.
+# AI - Learning Lists summary of Lehman class notes
 
 ## Step-by-Step Plan: Learning to Process Data in Lists
 
@@ -561,21 +559,4 @@ You are ready to move on when you can confidently do these things:
 
 ---
 
-🔄 **Pedagogical Approach**
-
-For students new to lists, it helps to frame list processing as a repeated pattern rather than a brand-new concept each time:
-
-```text
-Create the list.
-Fill the list.
-Process the list.
-Report the results.
-```
-
-A useful follow-up prompt you could use to generate practice activities is:
-
-```text
-Create five beginner Python practice problems about lists. Each problem should focus on one skill: indexing, appending, using len/sum/max/min, processing with a while loop, and using parallel lists. Include starter code but not the full solution.
-```
-
-This keeps the cognitive load manageable while helping students see lists as a practical tool for managing collections of data.
+-- end --
