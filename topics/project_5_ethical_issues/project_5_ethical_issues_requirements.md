@@ -33,7 +33,7 @@ Topics must be approved by the instructor.
 
 **Group Registration:**
 - Students will have time in class to organize their groups.
-- One student from each group must complete the Microsoft Forms Group and Topic Registration.
+- One student from each group must complete the Microsoft Forms Group and Topic Registration. [See Sign-Up Form](https://forms.cloud.microsoft/r/bHUd7WCzca)
 - **Registration Deadline: Monday, November 23, at 12:00 PM (noon).**
 - Students who have not joined a group will be assigned to a group by the instructor.
 - Presentation dates will be assigned through a random drawing in class on Monday, November 23.
